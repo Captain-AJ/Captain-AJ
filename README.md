@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
-
-
-
 
 <!--
 **Captain-AJ/Captain-AJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 Here are some ideas to get you started:
 
